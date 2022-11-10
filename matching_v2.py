@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
+# 二群から
+
 import networkx as nx
 from networkx.algorithms import bipartite
 import numpy as np
 import itertools
 import matplotlib.pyplot as plt
 
+number = 12
 group1 = range(6)
 group2 = range(6,12)
 weights = [

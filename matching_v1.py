@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# 去年まで使用してたもの。
+# ほげほげ
+
 # CSVデータ
 import pandas as pd, networkx as nx, matplotlib.pyplot as plt
 from ortoolpy import graph_from_table, networkx_draw
