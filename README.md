@@ -12,8 +12,11 @@
         |4 |5 |6 |
     - なお，生徒は1-12の数字で識別することを想定している（12人であってますか（小声））
 3. 実行
-    - `matching_v2.py`を使う場合は10行目から修正するところあり。見ればわかる。
-    - 
+    - `matching_v2.py`を使う場合は10行目から修正するところあり。
+    - 実行するには`~/Ouyo-TAMatching`で`python3 hoge.py`
+    - Nodeが結ばれたそれらしい図が出て来ればOK
+    - 宮川環境は`Python 3.8.9`
+    - ImportErrorがでたらよしなに`python3 -m pip install ${module name}`なりして解消してあげてください
 
 ## ファイル説明
 `matching_v1.py`
