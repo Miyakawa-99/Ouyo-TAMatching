@@ -17,6 +17,7 @@
     - Nodeが結ばれたそれらしい図が出て来ればOK
     - 宮川環境は`Python 3.8.9`
     - ImportErrorがでたらよしなに`python3 -m pip install ${module name}`なりして解消してあげてください
+    - アンケートの結果によっては全てのノードがつながらないこともある。特にv2の方がその可能性が高い。
 
 ## ファイル説明
 `matching_v1.py`
